@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontHexer", "src\FontHexer.csproj", "{786C785E-511A-45C3-81F3-1E6B2A9866FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786C785E-511A-45C3-81F3-1E6B2A9866FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786C785E-511A-45C3-81F3-1E6B2A9866FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786C785E-511A-45C3-81F3-1E6B2A9866FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786C785E-511A-45C3-81F3-1E6B2A9866FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BE9290-C117-423E-932A-37A5C40DDE21}
+	EndGlobalSection
+EndGlobal
