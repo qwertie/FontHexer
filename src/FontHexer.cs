@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Math;
 
-namespace HexFont
+namespace FontHexer
 {
     public partial class FontHexer : Form
     {
@@ -183,7 +183,7 @@ namespace HexFont
                 {
                     int intWidth = (int)Round(width);
                     string nums = NumberList(intWidth, charBitmap);
-                    lines.Add($"{((int)ch[0]).ToString().PadRight(3,' ')},{intWidth.ToString().PadRight(3, ' ')},{nums}, {ch}");
+                    lines.Add($"{((int)ch[0]).ToString().PadLeft(3,' ')},{intWidth.ToString().PadLeft(2)} ,{nums}, {ch}");
                 }
             }
             else

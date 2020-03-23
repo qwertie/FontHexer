@@ -1,6 +1,6 @@
 # FontHexer
 
-This program converts fonts that are installed on your computer into bitmap fonts (number sequence in CSV or JSON format).
+This C# program converts fonts that are installed on your computer into bitmap fonts (number sequence in CSV or JSON format).
 
 ![screenshot](screenshot.png)
 

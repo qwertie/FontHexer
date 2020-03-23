@@ -1,4 +1,4 @@
-﻿namespace HexFont
+﻿namespace FontHexer
 {
     partial class FontHexer
     {
